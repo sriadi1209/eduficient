@@ -1,2 +1,2 @@
 # eduficient
-educational revoultion in the making.
+educational revolution in the making.
