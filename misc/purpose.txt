@@ -2,19 +2,25 @@ Self Adaptive Educational Systems: (Notes)
 
 Problem we are solving:
 
-We believe most of the kids have similar skills and grasping power. Having said that factors like, motivation, communication, confidence, thought process and focus makes things different. As a result, customize coaching is the only way left for the progress. The experience is similar in well known coaching and tutoring, they try to increase the grasping power with specialized way having said that after certain iterations if results are not favorable then kids are advised for customized approach and most of the time it’s parent who have to lead this customize approach. Parents, due to their own circumstances like availability, knowledge, interest etc, may not effectively do the job.
+We believe most of the kids have similar skills and grasping power. Having said
+that factors like, motivation, communication, confidence, thought process and
+focus makes things different. As a result, customize coaching is the only way
+left for the progress. The experience is similar in well known coaching and
+tutoring, they try to increase the grasping power with specialized way having
+said that after certain iterations if results are not favorable then kids are
+advised for customized approach and most of the time it’s parent who have to
+lead this customize approach. Parents, due to their own circumstances like
+availability, knowledge, interest etc, may not effectively do the job.
 
-Our approach is to have self adaptive educational system which customizes the educational contents after detecting the needs of student. 
+Our approach is to have self adaptive educational system which customizes the
+educational contents after detecting the needs of student. 
 
 
 Areas to focus:
 
-Presentation Layer :
-Communication with student.
-Visual side.
-(Not a big fan of finding existing solutions as it deviates a lot but still if any reference product then do let put it here)
-Self Adaptive Infrastructure
-Accessing students need
-Initially this can be done by customized rule based detection (For POC). This may also means trial based attempts if can not decide programmatically.
-Presenting iterative material
-Progress based advancement.
+Presentation Layer : Communication with student.  Visual side.  (Not a big fan
+of finding existing solutions as it deviates a lot but still if any reference
+product then do let put it here) Self Adaptive Infrastructure Accessing students
+need Initially this can be done by customized rule based detection (For POC).
+This may also means trial based attempts if can not decide programmatically.
+Presenting iterative material Progress based advancement.
